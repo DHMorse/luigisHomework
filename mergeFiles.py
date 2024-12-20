@@ -44,7 +44,7 @@ def combine_files(input_directory, output_file):
 
 if __name__ == '__main__':
     # Example usage
-    input_dir = './'  # Current directory
+    input_dir = './hisCode'  # Current directory
     output_file = './combined_files.txt'
     
     combine_files(input_dir, output_file)
