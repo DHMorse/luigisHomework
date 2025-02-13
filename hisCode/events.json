@@ -1,0 +1,38 @@
+{ "events" :
+
+{
+   "event" : "Magna Carta",
+   "description" : "Charter of rights signed by King John of England, under duress, limiting the power of monarchs",
+   "date" : { "year" : 1215, "month" : "June", "day" : 15
+},
+
+{
+   "event" : "Habeus Corpus Act",
+   "description" : "Parliamentary Act preventing citizens from being unlawfully detained or imprisoned by the government",
+   "date" : { "year" : 1679, "month" : "May", "day" : 26
+},
+
+
+{
+   "event" : "Declaration of Independence",
+   "description" : "American colonies declare their independence from the British crown",
+   "date" : { "year" : 1776, "month" : "July", "day" : 4
+},
+
+{
+   "event" : "First Amendment",
+   "description" : "The first amendment to the United States Constitution guarantess freedom of religion, freedom of speech, freedom of the press, the right to peacably assemble, and the right to petition the government for the redress of grievances.",
+   "date" : { "year" : 1791, "month" : "December", "day" : 15
+},
+
+{
+   "event" : "Brussels Conference Act of 1890",
+   "description" : "17 countries agree to prohibit the trading of slaves",
+   "date" : { "year" : 1890, "month" : "July", "day" : 2
+},
+
+{
+   "event" : "Legalization of Gold",
+   "description" : "Pulbic Law 93-374, signed by Gerald Ford, allowed American citizens to own gold, overturning Roosevelt's executive order of 1933 making gold ownership illegal.",
+   "date" : { "year" : 1974, "month" : "December", "day" : 31
+},

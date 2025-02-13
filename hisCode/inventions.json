@@ -1,0 +1,38 @@
+{ "inventions" :
+  [
+  { "name" : "Alternating Current Electric Motor",
+    "inventor" : "Nikola Tesla",
+    "date" : 1887
+  },
+  { "name" : "Telegraph",
+    "inventor" : "Samuel Morse",
+    "date" : 1838
+  },
+  { "name" : "Telephone",
+    "inventor" : "Alexander Graham Bell",
+    "date" : 1876
+  },
+  { "name" : "Radio Telegraph",
+    "inventor" : "Guglielmo Marconi",
+    "date" : 1894
+  },
+  { "name" : "Printing Press",
+    "inventor" : "Joahnhes Gutenberg",
+    "date" : 1450
+  },
+  { "name" : "Reflecting Telescope",
+    "inventor" : "Isaac Newton",
+    "date" : 1668
+  },
+  { "name" : "Electric Battery",
+    "inventor" : "Allesandra Volta",
+    "date" : 1800
+  },
+  { "name" : "Toilet Paper",
+    "inventor" : "Joseph Gayetty",
+    "date" : 1857
+  }
+  ]
+}
+
+

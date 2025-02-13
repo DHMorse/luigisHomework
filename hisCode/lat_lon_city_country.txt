@@ -1,0 +1,988 @@
+55°01'N   82°56'E Novosibirsk, Russia
+30°42'N   88°03'W Mobile, United States
+45°24'S   72°41'W Puerto Aisén, Chile
+9°31'N   13°43'W Conakry, Guinea
+34°26'N   119°43'W Santa Barbara, United States
+38°29'N   27°13'W Angra do Heroísmo, Portugal
+42°59'N   144°23'E Kushiro, Japan
+2°59'S   104°45'E Palembang, Indonesia
+51°56'N   4°29'E Rotterdam, Netherlands
+21°25'N   39°49'E Mecca, Saudi Arabia
+12°39'N   8°00'W Bamako, Mali
+37°58'N   23°43'E Athens, Greece
+8°07'S   79°02'W Trujillo, Peru
+47°26'N   123°27'E Qiqihar, China
+6°14'N   75°35'W Medellín, Colombia
+82°30'N   62°20'W Alert, Canada
+76°25'N   82°54'W Grise Fiord, Canada
+25°34'N   91°53'E Shillong, India
+4°24'N   114°00'E Miri, Malaysia
+36°10'N   86°47'W Nashville, United States
+20°01'N   75°49'W Santiago de Cuba, Cuba
+35°28'N   44°19'E Kirkuk, Iraq
+46°25'S   168°21'E Invercargill, New Zealand
+30°35'N   114°17'E Wuhan,China
+34°04'N   134°33'E Tokushima, Japan
+46°44'N   117°00'W Moscow, United States
+19°03'N   98°13'W Puebla, Mexico
+15°55'S   5°43'W Jamestown, United Kingdom
+66°30'N   25°44'E Rovaniemi, Finland
+48°42'N   44°31'E Volgograd, Russia
+0°02'N   51°04'W Macapá, Brazil
+15°38'N   32°32'E Khartoum, Sudan
+31°12'N   29°55'E Alexandria, Egypt
+67°34'S   68°08'W Rothera, United Kingdom
+52°14'N   21°01'E Warsaw, Poland
+50°07'N   8°41'E Frankfurt am Main, Germany
+6°56'N   79°51'E Colombo, Sri Lanka
+8°07'N   63°33'W Ciudad Bolívar, Venezuela
+41°23'N   2°11'E Barcelona, Spain
+7°12'S   39°20'W Juazeiro do Norte, Brazil
+40°27'N   80°00'W Pittsburgh, United States
+9°39'N   123°51'E Tagbilaran, Philippines
+31°25'N   73°05'E Faisalabad, Pakistan
+53°28'N   2°14'W Manchester, United Kingdom
+43°30'N   16°26'E Split, Croatia
+65°35'N   22°09'E Luleå, Sweden
+52°22'N   4°54'E Amsterdam, Netherlands
+57°28'N   4°14'W Inverness, United Kingdom
+77°28'N   69°14'W Qaanaaq, Denmark
+24°28'N   39°36'E Medina, Saudi Arabia
+48°18'N   14°17'E Linz, Austria
+34°42'N   135°30'E Osaka, Japan
+31°38'S   60°42'W Santa Fe, Argentina
+43°42'N   7°16'E Nice, France
+54°30'N   18°33'E Gdynia, Poland
+49°15'N   123°06'W Vancouver, Canada
+43°32'N   5°42'W Gijón, Spain
+31°15'N   32°17'E Port Said, Egypt
+47°37'N   122°20'W Seattle, United States
+1°57'S   30°04'E Kigali, Rwanda
+16°40'S   49°15'W Goiânia, Brazil
+60°18'N   25°02'E Vantaa, Finland
+33°16'N   130°18'E Saga, Japan
+65°58'N   29°11'E Kuusamo, Finland
+34°14'N   135°10'E Wakayama, Japan
+39°32'N   119°49'W Reno, United States
+24°52'N   67°01'E Karachi, Pakistan
+31°12'N   121°30'E Shanghai,China
+2°31'S   32°54'E Mwanza, Tanzania
+6°22'N   2°26'E Cotonou, Benin
+32°47'N   129°52'E Nagasaki, Japan
+55°29'N   8°27'E Esbjerg, Denmark
+70°40'N   23°41'E Hammerfest, Norway
+47°28'N   19°03'E Budapest, Hungary
+25°58'S   32°35'E Maputo, Mozambique
+6°07'N   100°22'E Alor Setar, Malaysia
+43°03'N   87°57'W Milwaukee, United States
+52°23'N   4°38'E Haarlem, Netherlands
+46°49'N   71°13'W Quebec City, Canada
+40°11'N   29°03'E Bursa, Turkey
+27°02'N   14°26'E Sabha, Libya
+53°32'N   113°30'W Edmonton, Canada
+3°43'S   38°33'W Fortaleza, Brazil
+43°36'N   1°27'E Toulouse, France
+55°41'N   12°34'E Copenhagen, Denmark
+46°12'N   6°09'E Geneva, Switzerland
+24°38'N   46°43'E Riyadh, Saudi Arabia
+26°43'N   88°26'E Siliguri, India
+41°09'S   71°18'W San Carlos de Bariloche, Argentina
+58°00'N   56°19'E Perm, Russia
+31°56'N   35°56'E Amman, Jordan
+40°49'N   140°45'E Aomori, Japan
+9°24'N   0°51'W Tamale, Ghana
+51°53'N   176°39'W Adak, United States
+17°45'S   168°18'E Port Vila, Vanuatu
+33°35'N   130°24'E Fukuoka, Japan
+53°48'N   1°33'W Leeds, United Kingdom
+52°08'N   106°41'W Saskatoon, Canada
+35°07'N   106°37'W Albuquerque, United States
+30°12'N   71°28'E Multan, Pakistan
+31°38'N   74°52'E Amritsar, India
+22°15'N   97°52'W Tampico, Mexico
+4°36'N   74°05'W Bogotá, Colombia
+21°28'N   71°08'W Cockburn Town, United Kingdom
+59°26'N   24°45'E Tallinn, Estonia
+54°43'N   20°31'E Kaliningrad, Russia
+9°59'N   83°02'W Limon, Costa Rica
+34°59'N   138°23'E Shizuoka, Japan
+32°07'N   20°04'E Benghazi, Libya
+43°46'N   142°22'E Asahikawa, Japan
+36°22'N   140°28'E Mito, Japan
+36°36'N   114°29'E Handan,China
+8°39'S   115°13'E Denpasar, Indonesia
+36°48'N   10°11'E Tunis, Tunisia
+47°34'N   7°36'E Basel, Switzerland
+25°15'N   55°18'E Dubai, United Arab Emirates
+5°25'N   100°19'E George Town, Malaysia
+7°14'S   35°53'W Campina Grande, Brazil
+44°30'N   11°21'E Bologna, Italy
+46°51'N   29°38'E Tiraspol, Moldova
+11°40'N   92°46'E Port Blair, India
+40°45'N   111°53'W Salt Lake City, United States
+53°48'N   1°45'W Bradford, United Kingdom
+8°17'S   35°59'W Caruaru, Brazil
+45°34'S   72°04'W Coihaique, Chile
+41°43'N   44°47'E Tbilisi, Georgia
+14°55'N   23°31'W Praia, Cape Verde
+22°19'S   49°04'W Bauru, Brazil
+6°10'S   35°45'E Dodoma, Tanzania
+35°36'N   140°06'E Chiba, Japan
+30°55'N   75°51'E Ludhiana, India
+35°41'N   139°42'E Tokyo, Japan
+60°23'N   5°20'E Bergen, Norway
+22°28'S   68°56'W Calama, Chile
+7°29'N   134°36'E Melekeok, Palau
+0°03'N   32°28'E Entebbe, Uganda
+50°05'N   14°25'E Prague, Czech Republic
+51°54'N   8°28'W Cork, Ireland
+35°31'N   35°47'E Latakia, Syria
+3°40'S   40°14'W Sobral, Brazil
+12°27'S   130°50'E Darwin, Australia
+50°04'N   19°56'E Kraków, Poland
+25°51'S   25°38'E Mafikeng, South Africa
+34°32'N   69°10'E Kabul, Afghanistan
+35°42'N   51°25'E Tehran, Iran
+23°39'S   70°24'W Antofagasta, Chile
+63°17'N   18°44'E Örnsköldsvik, Sweden
+46°32'N   84°21'W Sault Ste. Marie, Canada
+62°54'N   27°41'E Kuopio, Finland
+55°09'N   61°23'E Chelyabinsk, Russia
+37°58'N   126°33'E Kaesong, North Korea
+17°01'N   54°05'E Salalah, Oman
+21°12'S   159°46'W Avarua, New Zealand
+62°01'N   6°46'W Tórshavn, Denmark
+27°42'N   85°20'E Kathmandu, Nepal
+39°39'S   176°50'E Hastings, New Zealand
+15°39'N   32°29'E Omdurman, Sudan
+40°43'N   74°04'W Jersey City, United States
+13°10'S   74°13'W Ayacucho, Peru
+25°47'N   80°13'W Miami, United States
+52°22'N   9°43'E Hannover, Germany
+2°12'N   102°15'E Malacca Town, Malaysia
+7°48'S   110°22'E Yogyakarta, Indonesia
+22°22'N   91°48'E Chittagong, Bangladesh
+35°29'N   97°32'W Oklahoma City, United States
+42°40'N   21°10'E Pristina, Serbia
+6°55'S   107°37'E Bandung, Indonesia
+5°32'S   47°29'W Imperatriz, Brazil
+54°59'N   73°22'E Omsk, Russia
+44°22'N   100°20'W Pierre, United States
+43°37'N   116°12'W Boise, United States
+0°33'S   166°55'E Yaren District, Nauru
+34°16'N   108°54'E Xi'an,China
+54°22'N   18°38'E Gdansk, Poland
+8°46'S   63°54'W Porto Velho, Brazil
+22°38'N   120°16'E Gaoxiong,Taiwan
+12°46'S   15°44'E Huambo, Angola
+19°55'N   99°50'E Chiang Rai, Thailand
+42°30'N   1°30'E Andorra la Vella, Andorra
+20°10'S   28°35'E Bulawayo, Zimbabwe
+18°21'N   64°57'W Charlotte Amalie, United States
+65°44'N   24°34'E Kemi, Finland
+42°51'N   2°41'W Vitoria-Gasteiz, Spain
+33°36'N   73°02'E Rawalpindi, Pakistan
+47°14'N   39°42'E Rostov-on-Don, Russia
+52°29'N   1°54'W Birmingham, United Kingdom
+13°16'N   16°39'W Brikama, Gambia
+58°36'N   16°12'E Norrköping, Sweden
+12°56'N   100°53'E Pattaya, Thailand
+43°33'N   7°01'E Cannes, France
+12°58'S   28°38'E Ndola, Zambia
+6°40'N   1°37'W Kumasi, Ghana
+29°07'S   26°13'E Bloemfontein, South Africa
+22°17'S   166°27'E Nouméa, France
+4°03'N   9°42'E Douala, Cameroon
+45°52'S   170°30'E Dunedin, New Zealand
+31°57'S   115°52'E Perth, Australia
+9°40'S   35°44'W Maceió, Brazil
+46°18'N   79°27'W North Bay, Canada
+18°56'S   47°31'E Antananarivo, Madagascar
+51°27'N   2°35'W Bristol, United Kingdom
+53°12'N   50°08'E Samara, Russia
+45°46'N   4°51'E Lyon, France
+39°06'N   94°35'W Kansas City, United States
+1°17'N   103°50'E Singapore, Singapore
+17°58'N   102°36'E Vientiane, Laos
+51°30'N   0°08'W London, United Kingdom
+29°58'N   90°03'W New Orleans, United States
+51°20'N   12°23'E Leipzig, Germany
+34°39'N   133°55'E Okayama, Japan
+44°57'N   34°06'E Simferopol, Ukraine
+38°16'N   140°52'E Sendai, Japan
+45°25'N   141°40'E Wakkanai, Japan
+46°29'N   81°01'W Sudbury, Canada
+4°51'N   31°36'E Juba, South Sudan
+41°16'S   173°17'E Nelson, New Zealand
+49°51'N   24°01'E Lviv, Ukraine
+8°34'N   16°05'E Moundou, Chad
+59°34'N   150°48'E Magadan, Russia
+1°27'S   48°30'W Belém, Brazil
+21°11'S   47°48'W Ribeirão Preto, Brazil
+25°04'N   77°20'W Nassau, Bahamas
+38°09'S   144°21'E Geelong, Australia
+52°31'N   13°23'E Berlin, Germany
+18°31'N   73°51'E Pune, India
+6°48'N   58°10'W Georgetown, Guyana
+30°02'S   51°14'W Porto Alegre, Brazil
+5°08'S   119°25'E Makassar, Indonesia
+32°39'N   16°55'W Funchal, Portugal
+28°25'N   81°18'W Orlando, United States
+22°34'S   17°05'E Windhoek, Namibia
+27°29'N   95°00'E Dibrugarh, India
+23°02'N   113°43'E Dongguan,China
+38°45'S   72°40'W Temuco, Chile
+64°45'N   20°57'E Skellefteå, Sweden
+35°25'N   136°46'E Gifu, Japan
+34°03'N   118°15'W Los Angeles, United States
+9°08'N   99°20'E Surat Thani, Thailand
+28°01'S   153°24'E Gold Coast, Australia
+21°07'N   101°41'W León, Mexico
+3°42'S   128°10'E Ambon, Maluku, Indonesia
+52°12'N   0°07'E Cambridge, United Kingdom
+51°52'N   2°14'W Gloucester, United Kingdom
+21°10'N   72°50'E Surat, India
+23°33'S   46°38'W São Paulo, Brazil
+50°54'N   1°24'W Southampton, United Kingdom
+52°10'N   4°29'E Leiden, Netherlands
+34°26'S   150°53'E Wollongong, Australia
+35°49'N   78°39'W Raleigh, United States
+53°10'S   70°56'W Punta Arenas, Chile
+22°49'N   108°19'E Nanning,China
+43°00'N   41°01'E Sukhumi, Georgia
+11°33'N   104°55'E Phnom Penh, Cambodia
+65°41'N   18°06'W Akureyri, Iceland
+56°09'N   10°13'E Aarhus, Denmark
+54°36'N   5°56'W Belfast, United Kingdom
+36°38'N   101°46'E Xining,China
+20°10'S   57°30'E Port Louis, Mauritius
+34°56'S   138°36'E Adelaide, Australia
+55°47'N   49°08'E Kazan, Russia
+36°18'N   59°36'E Mashhad, Iran
+8°29'N   13°14'W Freetown, Sierra Leone
+45°45'N   126°38'E Harbin,China
+9°24'S   40°30'W Petrolina, Brazil
+33°50'N   132°46'E Matsuyama, Japan
+38°32'N   68°47'E Dushanbe, Tajikistan
+39°10'N   75°32'W Dover, United States
+36°50'S   174°44'E Auckland, New Zealand
+48°09'N   17°07'E Bratislava, Slovakia
+50°41'N   120°20'W Kamloops, Canada
+9°23'S   179°51'E Nukulaelae, Tuvalu
+32°18'N   64°47'W Hamilton, United Kingdom
+26°25'S   31°10'E Lobamba, Swaziland
+55°57'N   3°11'W Edinburgh, United Kingdom
+14°42'N   17°27'W Dakar, Senegal
+46°14'N   63°09'W Charlottetown, Canada
+18°48'N   99°00'E Chiang Mai, Thailand
+78°55'N   11°56'E Ny-Ålesund, Norway
+0°15'S   78°35'W Quito, Ecuador
+52°57'N   1°08'W Nottingham, United Kingdom
+46°57'N   7°27'E Bern, Switzerland
+29°16'N   88°53'E Shigatse,China
+66°05'N   23°08'W Ísafjörður, Iceland
+42°00'N   21°26'E Skopje, Macedonia
+37°47'N   122°25'W San Francisco, United States
+34°44'N   10°46'E Sfax, Tunisia
+34°05'N   74°47'E Srinagar, India
+53°21'N   6°16'W Dublin, Ireland
+0°23'N   9°27'E Libreville, Gabon
+56°01'N   93°04'E Krasnoyarsk, Russia
+34°00'N   81°03'W Columbia, United States
+48°35'N   7°45'E Strasbourg, France
+50°51'N   5°41'E Maastricht, Netherlands
+38°43'N   9°08'W Lisbon, Portugal
+30°15'N   97°45'W Austin, United States
+20°51'N   106°41'E Hai Phong, Vietnam
+24°39'S   25°55'E Gaborone, Botswana
+34°43'N   136°30'E Tsu, Japan
+56°57'N   24°06'E Riga, Latvia
+20°43'N   103°24'W Zapopan, Mexico
+59°20'N   18°04'E Stockholm, Sweden
+32°53'S   68°49'W Mendoza, Argentina
+3°44'S   73°15'W Iquitos, Peru
+22°09'N   100°51'W San Luis Potosí, Mexico
+36°46'N   3°13'E Algiers, Algeria
+13°27'N   16°35'W Banjul, Gambia
+47°22'N   8°33'E Zürich, Switzerland
+36°04'N   136°13'E Fukui, Japan
+10°15'N   67°36'W Maracay, Venezuela
+45°02'N   38°58'E Krasnodar, Russia
+57°42'N   11°58'E Göteborg, Sweden
+1°16'S   116°50'E Balikpapan, Indonesia
+8°29'N   76°57'E Trivandrum, India
+31°46'S   52°21'W Pelotas, Brazil
+64°08'N   21°56'W Reykjavík, Iceland
+70°05'N   29°44'E Vadsø, Norway
+29°54'S   71°15'W La Serena, Chile
+41°53'N   87°38'W Chicago, United States
+62°24'N   17°19'E Sundsvall, Sweden
+1°26'N   173°00'E South Tarawa, Kiribati
+25°04'S   130°06'W Adamstown, United Kingdom
+14°54'N   92°16'W Tapachula, Mexico
+18°59'N   72°50'E Mumbai, India
+22°40'S   50°25'W Assis, Brazil
+43°51'N   18°21'E Sarajevo, Bosnia
+54°58'N   1°37'W Newcastle upon Tyne, United Kingdom
+25°25'S   49°15'W Curitiba, Brazil
+36°38'N   138°11'E Nagano, Japan
+26°28'N   80°20'E Kanpur, India
+16°47'N   3°01'W Timbuktu, Mali
+81°36'N   16°40'W Nord, Denmark
+4°36'N   101°04'E Ipoh, Malaysia
+21°46'S   43°21'W Juiz de Fora, Brazil
+44°26'N   26°06'E Bucharest, Romania
+35°52'N   128°36'E Daegu, South Korea
+71°39'N   128°52'E Tiksi, Russia
+45°49'N   15°59'E Zagreb, Croatia
+26°11'N   91°44'E Guwahati, India
+18°08'S   178°27'E Suva, Fiji
+15°47'S   35°00'E Blantyre, Malawi
+12°47'S   45°14'E Mamoudzou, France
+10°17'N   123°54'E Cebu City, Philippines
+6°48'S   39°17'E Dar es Salaam, Tanzania
+56°50'N   53°11'E Izhevsk, Russia
+23°23'S   150°31'E Rockhampton, Australia
+14°21'N   100°34'E Ayutthaya, Thailand
+27°28'S   153°02'E Brisbane, Australia
+29°34'N   106°34'E Chongqing,China
+44°51'N   63°12'W Halifax, Canada
+19°03'S   169°55'W Alofi, New Zealand
+45°31'N   122°41'W Portland, United States
+51°13'N   4°24'E Antwerp, Belgium
+20°28'S   54°37'W Campo Grande, Brazil
+32°04'N   34°47'E Tel Aviv, Israel
+39°28'N   31°14'W Flores Island, Portugal
+9°58'S   67°49'W Rio Branco, Brazil
+14°50'N   91°31'W Quetzaltenango, Guatemala
+5°40'N   67°38'W Puerto Ayacucho, Venezuela
+34°02'N   6°50'W Rabat, Morocco
+43°44'N   7°25'E Monaco, Monaco
+38°04'N   46°18'E Tabriz, Iran
+36°08'N   95°56'W Tulsa, United States
+17°52'S   31°02'E Harare, Zimbabwe
+31°44'N   106°29'W Ciudad Juárez, Mexico
+43°18'N   5°22'E Marseille, France
+25°17'S   57°38'W Asunción, Paraguay
+44°50'N   0°35'W Bordeaux, France
+56°07'N   101°36'E Bratsk, Russia
+12°08'N   86°15'W Managua, Nicaragua
+14°17'S   170°42'W Pago Pago, United States
+53°05'N   8°48'E Bremen, Germany
+16°04'N   108°14'E Da Nang, Vietnam
+14°47'S   39°03'W Ilhéus, Brazil
+23°08'N   113°16'E Guangzhou,China
+16°26'S   179°22'E Labasa, Fiji
+71°18'N   156°46'W Barrow, United States
+65°50'N   24°08'E Haparanda, Sweden
+42°53'S   147°20'E Hobart, Australia
+66°43'N   27°26'E Kemijärvi, Finland
+25°17'N   51°32'E Doha, Qatar
+54°09'N   4°29'W Douglas, United Kingdom
+45°52'S   67°29'W Comodoro Rivadavia, Argentina
+44°45'N   19°42'E Šabac, Serbia
+50°27'N   104°36'W Regina, Canada
+48°13'N   16°22'E Vienna, Austria
+15°20'N   38°56'E Asmara, Eritrea
+8°59'N   79°31'W Panama City, Panama
+51°03'N   3°44'E Ghent, Belgium
+51°02'N   13°44'E Dresden, Germany
+20°58'N   89°37'W Mérida, Mexico
+18°29'S   70°20'W Arica, Chile
+40°40'N   73°56'W New York City, United States
+41°46'N   140°44'E Hakodate, Japan
+52°38'N   1°18'E Norwich, United Kingdom
+7°04'N   125°36'E Davao City, Philippines
+77°51'S   166°40'W McMurdo, United States
+10°46'N   106°41'E Ho Chi Minh City, Vietnam
+24°47'S   65°25'W Salta, Argentina
+2°11'S   79°53'W Guayaquil, Ecuador
+22°59'N   120°11'E Tainan,Taiwan
+51°10'N   71°26'E Astana, Kazakhstan
+24°01'N   104°40'W Durango, Mexico
+16°26'N   102°50'E Khon Kaen, Thailand
+17°18'N   62°44'W Basseterre, Saint Kitts and Nevis
+14°33'N   121°02'E Makati, Philippines
+3°23'S   29°22'E Bujumbura, Burundi
+5°58'N   116°06'E Kota Kinabalu, Malaysia
+26°51'N   80°57'E Lucknow, India
+18°55'S   48°17'W Uberlândia, Brazil
+52°35'N   0°15'W Peterborough, United Kingdom
+29°46'N   95°23'W Houston, United States
+60°43'N   46°02'W Qaqortoq, Denmark
+9°04'N   7°29'E Abuja, Nigeria
+58°10'N   8°00'E Kristiansand, Norway
+50°00'N   36°14'E Kharkiv, Ukraine
+41°35'N   93°37'W Des Moines, United States
+2°02'N   45°21'E Mogadishu, Somalia
+35°10'N   33°22'E Nicosia, Cyprus
+13°41'N   89°11'W San Salvador, El Salvador
+39°44'N   104°59'W Denver, United States
+37°29'N   126°38'E Incheon, South Korea
+20°40'N   105°16'W Puerto Vallarta, Mexico
+37°55'N   139°02'E Niigata, Japan
+34°23'N   132°27'E Hiroshima, Japan
+6°36'S   106°48'E Bogor, Indonesia
+43°42'N   79°24'W Toronto, Canada
+62°15'N   25°45'E Jyväskylä, Finland
+14°59'N   102°06'E Nakhon Ratchasima, Thailand
+46°47'N   56°11'W Saint-Pierre, France
+20°19'S   40°20'W Vitória, Brazil
+45°17'N   66°05'W Saint John, Canada
+22°53'N   109°55'W Cabo San Lucas, Mexico
+9°02'N   38°44'E Addis Ababa, Ethiopia
+41°29'N   81°40'W Cleveland, United States
+42°28'N   59°36'E Nukus, Uzbekistan
+62°27'N   114°24'W Yellowknife, Canada
+12°07'N   15°03'E N'Djamena, Chad
+59°51'N   17°39'E Uppsala, Sweden
+15°36'S   56°06'W Cuiabá, Brazil
+39°09'N   127°27'E Wonsan, North Korea
+32°55'S   151°45'E Newcastle, Australia
+32°32'N   117°02'W Tijuana, Mexico
+57°03'N   135°20'W Sitka, United States
+33°03'S   71°37'W Valparaíso, Chile
+3°52'N   11°31'E Yaoundé, Cameroon
+45°26'N   12°20'E Venice, Italy
+8°53'S   36°30'W Garanhuns, Brazil
+43°54'N   125°12'E Changchun,China
+5°33'N   95°19'E Banda Aceh, Indonesia
+21°19'N   157°50'W Honolulu, United States
+36°48'N   34°38'E Mersin, Turkey
+41°09'N   104°48'W Cheyenne, United States
+51°40'N   39°13'E Voronezh, Russia
+60°10'N   24°56'E Helsinki, Finland
+39°34'N   2°39'E Palma, Spain
+18°13'N   63°03'W The Valley, United Kingdom
+42°17'N   83°00'W Windsor, Canada
+36°02'N   103°48'E Lanzhou,China
+22°33'N   114°06'E Shenzhen,China
+10°30'N   66°55'W Caracas, Venezuela
+10°38'N   85°26'W Liberia, Costa Rica
+79°59'N   85°56'W Eureka, Canada
+25°19'N   79°38'E Kulpahar, India
+59°57'N   10°45'E Oslo, Norway
+50°22'N   4°09'W Plymouth, United Kingdom
+2°49'N   60°40'W Boa Vista, Brazil
+63°11'N   14°40'E Östersund, Sweden
+41°54'N   12°30'E Rome, Italy
+51°29'N   3°11'W Cardiff, United Kingdom
+33°43'N   73°04'E Islamabad, Pakistan
+18°51'S   41°56'W Governador Valadares, Brazil
+25°32'N   103°27'W Torreón, Mexico
+41°01'N   28°57'E Istanbul, Turkey
+4°53'N   114°57'E Bandar Seri Begawan, Brunei
+23°02'N   72°35'E Ahmedabad, India
+29°39'N   91°06'E Lhasa,China
+36°50'S   73°03'W Concepción, Chile
+72°47'N   56°09'W Upernavik, Denmark
+21°33'N   39°10'E Jeddah, Saudi Arabia
+13°32'S   71°58'W Cusco, Peru
+62°02'N   129°44'E Yakutsk, Russia
+50°51'N   4°21'E Brussels, Belgium
+20°13'S   70°09'W Iquique, Chile
+29°53'S   31°03'E Durban, South Africa
+2°32'S   140°43'E Jayapura, Indonesia
+31°31'N   34°27'E Gaza, Palestine
+21°10'N   86°51'W Cancún, Mexico
+38°35'N   28°43'W Horta, Portugal
+14°36'N   61°05'W Fort-de-France, France
+13°22'N   103°52'E Siem Reap, Cambodia
+39°28'N   0°23'W Valencia, Spain
+15°48'S   47°52'W Brasília, Brazil
+6°08'N   102°15'E Kota Bharu, Malaysia
+37°56'N   58°22'E Ashgabat, Turkmenistan
+35°01'N   135°51'E Otsu, Japan
+17°32'S   149°34'W Papeete, France
+43°50'N   87°36'E Ürümqi,China
+39°43'N   140°07'E Akita, Japan
+58°23'N   26°43'E Tartu, Estonia
+18°32'N   72°20'W Port-au-Prince, Haiti
+65°22'N   27°00'E Pudasjärvi, Finland
+41°46'N   72°40'W Hartford, United States
+33°57'S   25°36'E Port Elizabeth, South Africa
+23°50'N   91°16'E Agartala, India
+42°14'N   43°58'E Tskhinvali, Georgia
+64°44'N   177°31'E Anadyr, Russia
+35°11'N   136°54'E Nagoya, Japan
+24°34'N   81°47'W Key West, United States
+55°05'S   67°05'W Puerto Toro, Chile
+56°44'N   111°23'W Fort McMurray, Canada
+37°00'N   35°19'E Adana, Turkey
+42°54'N   78°51'W Buffalo, United States
+40°24'N   3°41'W Madrid, Spain
+39°59'N   82°59'W Columbus, United States
+69°20'N   88°13'E Norilsk, Russia
+53°13'N   6°33'E Groningen, Netherlands
+12°03'S   77°02'W Lima, Peru
+13°50'S   171°45'W Apia, Samoa
+19°45'N   96°06'E Naypyidaw, Burma
+13°31'N   144°50'E Dededo, United States
+37°41'N   97°20'W Wichita, United States
+43°17'N   76°54'E Almaty, Kazakhstan
+25°23'N   68°22'E Hyderabad, Pakistan
+15°21'N   44°12'E Sana'a, Yemen
+14°37'N   90°32'W Guatemala City, Guatemala
+63°26'N   10°24'E Trondheim, Norway
+14°06'N   87°13'W Tegucigalpa, Honduras
+58°18'N   134°25'W Juneau, United States
+69°54'N   27°01'E Utsjoki, Finland
+36°08'N   5°21'W Gibraltar, United Kingdom
+65°01'N   25°28'E Oulu, Finland
+27°57'N   82°28'W Tampa, United States
+0°01'S   109°20'E Pontianak, Indonesia
+4°55'N   52°20'W Cayenne, France
+35°28'N   133°03'E Matsue, Japan
+34°36'S   58°23'W Buenos Aires, Argentina
+36°51'N   75°59'W Virginia Beach, United States
+54°48'S   68°18'W Ushuaia, Argentina
+26°13'N   127°41'E Naha, Japan
+0°19'N   32°35'E Kampala, Uganda
+63°24'S   56°59'W Esperanza, Argentina
+37°52'N   112°34'E Taiyuan,China
+41°05'N   85°08'W Fort Wayne, United States
+90°00'S   0°00'E South Pole Station, United States
+33°53'N   35°31'E Beirut, Lebanon
+43°10'N   77°37'W Rochester, United States
+54°41'N   25°17'E Vilnius, Lithuania
+52°05'N   4°19'E The Hague, Netherlands
+63°06'N   21°37'E Vaasa, Finland
+44°19'N   69°47'W Augusta, United States
+47°55'N   106°55'E Ulan Bator, Mongolia
+32°18'N   90°11'W Jackson, United States
+38°03'N   114°30'E Shijiazhuang,China
+6°19'N   10°48'W Monrovia, Liberia
+10°39'N   71°38'W Maracaibo, Venezuela
+55°35'N   13°02'E Malmö, Sweden
+22°34'N   88°22'E Kolkata (Calcutta), India
+36°11'N   115°08'W Las Vegas, United States
+17°07'N   61°51'W St. John's, Antigua and Barbuda
+67°51'N   20°13'E Kiruna, Sweden
+16°30'S   180°00'W Rabi Island, Fiji
+27°09'S   109°26'W Hanga Roa, Chile
+25°41'N   32°39'E Luxor, Egypt
+33°34'N   133°32'E Kochi, Japan
+16°24'S   71°32'W Arequipa, Peru
+53°31'N   49°25'E Tolyatti, Russia
+53°23'N   1°28'W Sheffield, United Kingdom
+15°18'N   61°23'W Roseau, Dominica
+10°58'N   74°48'W Barranquilla, Colombia
+42°42'N   23°20'E Sofia, Bulgaria
+26°13'N   50°35'E Manama, Bahrain
+65°51'N   24°09'E Tornio, Finland
+39°15'N   9°03'E Cagliari, Italy
+38°43'S   62°16'W Bahía Blanca, Argentina
+19°42'N   155°05'W Hilo, United States
+9°33'N   44°4'E Hargeisa, Somalia
+41°17'S   174°47'E Wellington, New Zealand
+31°47'N   106°25'W El Paso, United States
+31°06'N   77°10'E Shimla, India
+1°34'N   110°21'E Kuching, Malaysia
+28°45'S   24°46'E Kimberley, South Africa
+42°26'N   19°16'E Podgorica, Montenegro
+35°31'N   139°42'E Kawasaki, Japan
+51°45'N   1°15'W Oxford, United Kingdom
+46°46'N   23°35'E Cluj-Napoca, Romania
+60°59'N   25°39'E Lahti, Finland
+32°51'S   27°26'E Bhisho, South Africa
+37°04'N   37°23'E Gaziantep, Turkey
+50°38'N   3°03'E Lille, France
+50°27'N   30°31'E Kiev, Ukraine
+17°41'N   83°13'E Visakhapatnam, India
+64°32'N   40°32'E Arkhangelsk, Russia
+53°01'N   158°39'E Petropavlovsk-Kamchatsky, Russia
+70°05'N   27°53'E Nuorgam, Finland
+13°59'S   33°47'E Lilongwe, Malawi
+11°35'N   43°09'E Djibouti, Djibouti
+59°17'N   11°12'E Sarpsborg, Norway
+40°51'N   14°16'E Naples, Italy
+63°29'N   11°10'E Stjørdal, Norway
+65°20'N   21°30'E Piteå, Sweden
+40°01'N   105°17'W Boulder, United States
+54°45'N   55°58'E Ufa, Russia
+14°35'N   120°58'E Manila, Philippines
+38°55'N   121°38'E Dalian,China
+24°48'N   107°23'W Culiacán, Mexico
+38°07'N   13°22'E Palermo, Italy
+15°25'S   28°17'E Lusaka, Zambia
+67°33'N   133°23'E Verkhoyansk, Russia
+8°33'S   125°35'E Dili, Timor-Leste
+46°08'N   64°46'W Moncton, Canada
+10°11'S   48°20'W Palmas, Brazil
+35°18'S   149°07'E Canberra, Australia
+26°56'N   75°49'E Jaipur, India
+48°23'N   89°15'W Thunder Bay, Canada
+54°17'S   36°30'W Grytviken, United Kingdom
+22°54'S   47°03'W Campinas, Brazil
+13°29'N   144°45'E Hagåtña, United States
+21°08'S   175°12'W Nuku?alofa, Tonga
+27°09'N   13°12'W El Aaiún, Morocco
+59°57'N   30°18'E Saint Petersburg, Russia
+19°03'S   65°15'W Sucre, Bolivia
+13°05'N   80°16'E Chennai (Madras), India
+36°34'N   136°39'E Kanazawa, Japan
+34°41'N   135°48'E Nara, Japan
+16°00'N   61°44'W Basse-Terre, France
+10°40'N   61°31'W Port of Spain, Trinidad and Tobago
+41°16'N   69°13'E Tashkent, Uzbekistan
+46°31'N   6°38'E Lausanne, Switzerland
+52°13'N   6°54'E Enschede, Netherlands
+43°08'N   131°54'E Vladivostok, Russia
+38°59'N   1°26'E Ibiza, Spain
+52°55'N   1°28'W Derby, United Kingdom
+25°45'S   28°11'E Pretoria, South Africa
+28°28'N   16°15'W Santa Cruz de Tenerife, Spain
+49°37'N   6°07'E Luxembourg, Luxembourg
+51°29'N   0°00'E/W Greenwich, United Kingdom
+3°06'S   60°01'W Manaus, Brazil
+25°40'N   100°18'W Monterrey, Mexico
+70°12'N   148°31'W Deadhorse, United States
+35°40'N   138°34'E Kofu, Japan
+37°30'N   15°05'E Catania, Italy
+54°05'N   2°80'W Lancaster, United Kingdom
+33°27'S   70°40'W Santiago, Chile
+39°57'N   75°10'W Philadelphia, United States
+17°22'N   78°29'E Hyderabad, India
+5°19'N   4°02'W Abidjan, Ivory Coast
+26°12'S   28°03'E Johannesburg, South Africa
+26°17'N   50°12'E Dammam, Saudi Arabia
+70°59'N   25°59'E Honningsvåg, Norway
+16°48'N   96°09'E Yangon, Burma
+35°11'N   129°05'E Busan, South Korea
+20°35'N   100°24'W Querétaro, Mexico
+50°43'N   3°32'W Exeter, United Kingdom
+38°54'N   77°02'W Washington, United States
+32°47'N   130°44'E Kumamoto, Japan
+13°45'N   100°28'E Bangkok, Thailand
+54°47'N   9°26'E Flensburg, Germany
+47°16'N   11°23'E Innsbruck, Austria
+3°35'N   98°40'E Medan, Indonesia
+73°30'N   80°31'E Dikson, Russia
+41°49'N   71°25'W Providence, United States
+20°40'N   103°21'W Guadalajara, Mexico
+45°04'N   7°42'E Turin, Italy
+38°21'N   81°38'W Charleston, United States
+40°11'N   44°31'E Yerevan, Armenia
+63°45'N   68°31'W Iqaluit, Canada
+9°58'N   84°50'W Puntarenas, Costa Rica
+33°39'N   86°49'W Birmingham, United States
+4°55'N   1°46'W Sekondi-Takoradi, Ghana
+39°47'N   30°31'E Eskisehir, Turkey
+48°26'N   123°22'W Victoria, Canada
+51°23'N   2°22'W Bath, United Kingdom
+11°51'N   15°34'W Bissau, Guinea-Bissau
+33°32'N   7°35'W Casablanca, Morocco
+13°17'S   176°11'W Mata-Utu, France
+32°40'N   115°28'W Mexicali, Mexico
+35°58'N   83°57'W Knoxville, United States
+19°15'S   146°49'E Townsville, Australia
+6°49'N   5°17'W Yamoussoukro, Ivory Coast
+43°15'N   2°55'W Bilbao, Spain
+20°53'S   55°27'E Saint-Denis, France
+21°47'S   46°34'W Poços de Caldas, Brazil
+35°54'N   14°31'E Valletta, Malta
+22°55'S   43°12'W Rio de Janeiro, Brazil
+20°48'S   49°23'W São José do Rio Preto, Brazil
+42°52'N   74°37'E Bishkek, Kyrgyzstan
+45°28'N   9°11'E Milan, Italy
+32°43'N   117°10'W San Diego, United States
+3°45'N   8°47'E Malabo, Equatorial Guinea
+41°49'N   123°25'E Shenyang,China
+41°39'N   0°53'W Zaragoza, Spain
+7°18'N   80°38'E Kandy, Sri Lanka
+29°06'N   110°57'W Hermosillo, Mexico
+45°57'N   66°40'W Fredericton, Canada
+28°38'N   106°05'W Chihuahua, Mexico
+19°18'N   81°23'W George Town, United Kingdom
+47°00'N   28°55'E Chisinau, Moldova
+37°49'S   144°58'E Melbourne, Australia
+33°52'S   151°13'E Sydney, Australia
+55°45'N   37°37'E Moscow, Russia
+37°47'S   175°17'E Hamilton, New Zealand
+41°00'N   71°40'E Namangan, Uzbekistan
+52°06'N   5°07'E Utrecht, Netherlands
+33°45'N   84°23'W Atlanta, United States
+31°36'N   130°33'E Kagoshima, Japan
+17°30'N   88°11'W Belize City, Belize
+7°01'N   100°28'E Hat Yai, Thailand
+57°09'N   4°07'W Aberdeen, United Kingdom
+42°20'N   83°03'W Detroit, United States
+6°54'N   122°04'E Zamboanga City, Philippines
+36°04'N   120°23'E Qingdao,China
+25°31'S   54°37'W Ciudad del Este, Paraguay
+69°41'N   18°57'E Tromsø, Norway
+55°24'N   10°23'E Odense, Denmark
+55°10'N   118°48'W Grande Prairie, Canada
+35°07'N   89°58'W Memphis, United States
+27°11'N   78°01'E Agra, India
+33°57'N   117°24'W Riverside, United States
+51°37'N   3°57'W Swansea, United Kingdom
+55°51'N   4°16'W Glasgow, United Kingdom
+31°25'S   64°11'W Córdoba, Argentina
+30°20'N   81°40'W Jacksonville, United States
+44°59'N   93°16'W Minneapolis, United States
+2°32'S   44°18'W São Luís, Brazil
+36°11'N   44°01'E Arbil, Iraq
+12°31'N   70°02'W Oranjestad, Netherlands
+12°58'N   77°34'E Bangalore, India
+45°30'N   73°34'W Montreal, Canada
+29°37'S   30°23'E Pietermaritzburg, South Africa
+41°54'N   12°27'E Vatican City, Vatican City
+51°03'N   114°04'W Calgary, Canada
+23°54'S   29°27'E Polokwane, South Africa
+51°42'S   57°52'W Stanley, United Kingdom
+35°30'N   134°14'E Tottori, Japan
+9°28'S   159°49'E Honiara, Solomon Islands
+29°58'N   32°33'E Suez, Egypt
+53°24'N   2°59'W Liverpool, United Kingdom
+34°44'N   92°20'W Little Rock, United States
+31°38'N   8°01'W Marrakech, Morocco
+38°28'N   23°36'E Halkis, Greece
+60°43'N   135°03'W Whitehorse, Canada
+52°38'N   1°08'W Leicester, United Kingdom
+44°20'N   23°49'E Craiova, Romania
+12°58'S   38°29'W Salvador, Brazil
+12°07'N   68°56'W Willemstad, Netherlands
+45°25'N   75°41'W Ottawa, Canada
+7°16'S   112°45'E Surabaya, Indonesia
+63°50'N   20°16'E Umeå, Sweden
+23°37'N   58°36'E Muscat, Oman
+18°27'N   66°04'W San Juan, United States
+26°38'N   92°48'E Tezpur, India
+23°08'N   82°23'W Havana, Cuba
+25°02'N   121°38'E Taibei,Taiwan
+56°50'N   60°35'E Yekaterinburg, Russia
+43°20'N   145°35'E Nemuro, Japan
+35°54'N   14°28'E Birkirkara, Malta
+43°15'S   65°18'W Trelew, Argentina
+37°12'N   93°17'W Springfield, United States
+37°34'N   126°59'E Seoul, South Korea
+41°28'S   72°56'W Puerto Montt, Chile
+36°20'N   43°08'E Mosul, Iraq
+50°57'N   6°58'E Cologne, Germany
+49°54'N   97°08'W Winnipeg, Canada
+15°11'N   145°45'E Saipan, United States
+17°51'S   25°52'E Livingstone, Zambia
+31°47'N   35°13'E Jerusalem, Israel
+18°26'N   64°37'W Road Town, United Kingdom
+3°25'N   76°31'W Santiago de Cali, Colombia
+17°59'N   76°48'W Kingston, Jamaica
+50°49'N   1°05'W Portsmouth, United Kingdom
+37°49'N   25°45'W Ponta Delgada, Portugal
+12°37'N   87°09'W Chinandega, Nicaragua
+5°06'S   42°48'W Teresina, Brazil
+35°27'N   139°38'E Yokohama, Japan
+7°24'N   3°55'E Ibadan, Nigeria
+32°57'S   60°40'W Rosario, Argentina
+35°20'N   25°08'E Heraklion, Greece
+51°14'N   6°47'E Düsseldorf, Germany
+31°37'N   65°43'E Kandahar, Afghanistan
+30°40'N   104°04'E Chengdu,China
+57°37'N   39°51'E Yaroslavl, Russia
+38°26'N   27°09'E Izmir, Turkey
+7°05'S   34°50'W João Pessoa, Brazil
+38°15'N   85°46'W Louisville, United States
+13°26'N   16°40'W Serekunda, Gambia
+3°51'S   32°25'W Fernando de Noronha, Brazil
+5°47'S   35°12'W Natal, Brazil
+7°53'N   98°24'E Phuket, Thailand
+22°17'N   114°10'E Hong Kong,China
+43°56'N   12°27'E San Marino, San Marino
+39°06'N   84°31'W Cincinnati, United States
+14°01'N   60°59'W Castries, Saint Lucia
+51°32'N   46°01'E Saratov, Russia
+9°58'N   76°17'E Kochi, India
+53°34'N   10°00'E Hamburg, Germany
+16°52'N   99°53'W Acapulco, Mexico
+21°53'N   102°18'W Aguascalientes, Mexico
+32°47'N   79°56'W Charleston, United States
+27°28'N   89°39'E Thimphu, Bhutan
+52°24'N   1°31'W Coventry, United Kingdom
+10°43'N   122°34'E Iloilo City, Philippines
+29°33'N   34°57'E Eilat, Israel
+1°29'N   103°44'E Johor Bahru, Malaysia
+38°38'N   90°12'W St. Louis, United States
+5°33'N   0°12'W Accra, Ghana
+25°37'N   85°09'E Patna, India
+17°25'N   102°45'E Udon Thani, Thailand
+6°30'N   2°36'E Porto-Novo, Benin
+40°24'N   49°53'E Baku, Azerbaijan
+51°38'S   69°13'W Río Gallegos, Argentina
+19°55'S   43°56'W Belo Horizonte, Brazil
+40°49'N   96°41'W Lincoln, United States
+18°28'N   69°57'W Santo Domingo, Dominican Republic
+39°49'S   73°15'W Valdivia, Chile
+34°53'S   56°11'W Montevideo, Uruguay
+4°11'N   73°31'E Malé, Maldives
+43°12'N   71°32'W Concord, United States
+37°23'N   5°59'W Sevilla, Spain
+23°11'S   45°53'W São José dos Campos, Brazil
+52°24'N   16°55'E Poznan, Poland
+37°52'N   32°29'E Konya, Turkey
+43°35'N   39°43'E Sochi, Russia
+61°13'N   149°54'W Anchorage, United States
+41°10'N   8°37'W Porto, Portugal
+34°41'N   135°12'E Kobe, Japan
+41°20'N   19°49'E Tirana, Albania
+1°17'S   36°49'E Nairobi, Kenya
+39°08'N   117°11'E Tianjin,China
+17°15'N   88°46'W Belmopan, Belize
+65°50'N   21°43'E Boden, Sweden
+61°30'N   23°46'E Tampere, Finland
+6°19'N   5°36'E Benin City, Nigeria
+3°09'N   101°42'E Kuala Lumpur, Malaysia
+39°46'N   86°09'W Indianapolis, United States
+14°47'N   16°55'W Thiès, Senegal
+32°13'N   110°56'W Tucson, United States
+33°14'N   131°36'E Oita, Japan
+22°10'N   113°33'E Macau,China
+29°19'S   27°29'E Maseru, Lesotho
+33°20'N   44°26'E Baghdad, Iraq
+39°41'N   141°09'E Morioka, Japan
+30°45'N   76°47'E Chandigarh, India
+32°47'N   96°48'W Dallas, United States
+10°24'N   75°30'W Cartagena, Colombia
+25°28'S   30°59'E Nelspruit, South Africa
+11°52'S   55°30'W Sinop, Brazil
+6°27'N   3°24'E Lagos, Nigeria
+43°19'N   2°00'W San Sebastián, Spain
+47°13'N   1°33'W Nantes, France
+32°54'N   13°11'E Tripoli, Libya
+4°03'S   39°40'E Mombasa, Kenya
+16°28'N   107°35'E Hu?, Vietnam
+29°04'S   167°58'E Kingston, Australia
+31°55'N   131°25'E Miyazaki, Japan
+39°54'N   116°24'E Beijing,China
+17°48'S   63°10'W Santa Cruz de la Sierra, Bolivia
+46°36'N   112°02'W Helena, United States
+49°53'N   119°30'W Kelowna, Canada
+52°19'N   104°18'E Irkutsk, Russia
+47°08'N   9°31'E Vaduz, Liechtenstein
+10°01'N   84°13'W Alajuela, Costa Rica
+11°45'S   43°12'E Moroni, Comoros
+21°02'N   105°51'E Hanoi, Vietnam
+68°58'N   33°05'E Murmansk, Russia
+33°56'S   18°25'E Cape Town, South Africa
+68°25'N   17°34'E Narvik, Norway
+8°03'S   34°54'W Recife, Brazil
+43°47'N   11°15'E Florence, Italy
+26°19'S   31°08'E Mbabane, Swaziland
+34°21'N   134°03'E Takamatsu, Japan
+34°46'N   113°39'E Zhengzhou,China
+9°31'S   147°13'E Port Moresby, Papua New Guinea
+48°08'N   11°34'E Munich, Germany
+34°13'N   77°55'W Wilmington, United States
+48°51'N   2°21'E Paris, France
+12°21'N   1°32'W Ouagadougou, Burkina Faso
+43°04'N   141°21'E Sapporo, Japan
+37°46'N   140°28'E Fukushima, Japan
+29°25'N   98°30'W San Antonio, United States
+61°08'N   10°26'E Lillehammer, Norway
+6°58'S   110°25'E Semarang, Indonesia
+5°52'N   55°10'W Paramaribo, Suriname
+48°47'N   9°11'E Stuttgart, Germany
+40°13'N   74°46'W Trenton, United States
+28°37'N   77°13'E New Delhi, India
+10°55'S   37°03'W Aracaju, Brazil
+18°06'N   15°57'W Nouakchott, Mauritania
+47°04'N   15°26'E Graz, Austria
+24°09'N   120°40'E Taizhong,Taiwan
+4°45'N   7°00'E Port Harcourt, Nigeria
+12°52'N   7°34'W Koulikoro, Mali
+40°39'N   22°54'E Thessaloniki, Greece
+11°11'N   4°17'W Bobo-Dioulasso, Burkina Faso
+0°32'N   101°27'E Pekanbaru, Indonesia
+30°03'N   31°14'E Cairo, Egypt
+30°15'N   120°10'E Hangzhou,China
+54°56'S   67°37'W Puerto Williams, Chile
+12°03'N   61°45'W St. George's, Grenada
+31°33'N   74°21'E Lahore, Pakistan
+7°22'N   134°29'E Koror, Palau
+6°27'N   7°31'E Enugu, Nigeria
+51°06'N   1°30'E Winchester, United Kingdom
+8°31'S   179°13'E Funafuti, Tuvalu
+45°15'N   19°51'E Novi Sad, Serbia
+6°08'N   1°13'E Lomé, Togo
+25°04'N   102°41'E Kunming,China
+6°12'S   106°48'E Jakarta, Indonesia
+46°28'N   30°44'E Odessa, Ukraine
+48°00'N   37°48'E Donetsk, Ukraine
+36°43'N   4°25'W Málaga, Spain
+0°57'S   100°21'E Padang, Indonesia
+16°30'S   68°09'W La Paz, Bolivia
+39°17'N   76°37'W Baltimore, United States
+16°56'S   145°47'E Cairns, Australia
+60°12'N   24°39'E Espoo, Finland
+47°48'N   13°02'E Salzburg, Austria
+33°41'S   53°27'W Chuí, Brazil
+64°11'N   51°44'W Nuuk (Godthåb), Denmark
+39°01'N   125°44'E Pyongyang, North Korea
+26°49'S   65°13'W San Miguel de Tucumán, Argentina
+12°00'N   8°31'E Kano, Nigeria
+27°22'S   70°20'W Copiapó, Chile
+36°42'N   137°13'E Toyama, Japan
+26°29'S   31°22'E Manzini, Swaziland
+46°03'N   14°31'E Ljubljana, Slovenia
+0°21'S   42°33'E Kismayo, Somalia
+19°26'N   99°08'W Mexico City Mexico City, Mexico
+21°10'S   27°31'E Francistown, Botswana
+7°04'N   171°16'E Majuro, Marshall Islands
+34°11'N   131°28'E Yamaguchi, Japan
+6°10'S   39°12'E Zanzibar City, Tanzania
+38°33'N   121°28'W Sacramento, United States
+36°33'N   139°53'E Utsunomiya, Japan
+36°40'N   116°59'E Jinan,China
+44°15'N   72°34'W Montpelier, United States
+42°55'N   143°12'E Obihiro, Japan
+50°50'N   0°09'W Brighton and Hove, United Kingdom
+33°31'N   36°18'E Damascus, Syria
+54°20'N   10°08'E Kiel, Germany
+23°42'N   90°23'E Dhaka, Bangladesh
+27°20'N   88°37'E Gangtok, India
+60°27'N   11°16'E Turku, Finland
+21°48'S   48°11'W Araraquara, Brazil
+35°40'N   105°58'W Santa Fe, United States
+7°59'S   112°37'E Malang, Indonesia
+78°13'N   15°39'E Longyearbyen, Norway
+46°49'N   100°47'W Bismarck, United States
+35°14'N   80°51'W Charlotte, United States
+21°08'N   79°05'E Nagpur, India
+36°23'N   139°04'E Maebashi, Japan
+27°50'S   48°25'W Florianópolis, Brazil
+24°28'N   54°22'E Abu Dhabi, United Arab Emirates
+7°54'N   72°30'W Cúcuta, Colombia
+10°17'N   61°28'W San Fernando, Trinidad and Tobago
+64°51'N   147°43'W Fairbanks, United States
+44°49'N   20°28'E Belgrade, Serbia
+20°19'S   118°36'E Port Hedland, Australia
+47°34'N   52°42'W St. John's, Canada
+13°31'N   2°06'E Niamey, Niger
+8°50'S   13°14'E Luanda, Angola
+30°30'N   47°49'E Basra, Iraq
+4°37'S   55°27'E Victoria, Seychelles
+28°09'N   15°25'W Las Palmas de Gran Canaria, Spain
+31°51'N   116°36'W Ensenada, Mexico
+14°38'N   121°02'E Quezon City, Philippines
+34°01'N   71°35'E Peshawar, Pakistan
+19°11'N   96°09'W Veracruz, Mexico
+7°43'N   81°42'E Batticaloa, Sri Lanka
+38°15'N   140°20'E Yamagata, Japan
+32°38'N   51°39'E Isfahan, Iran
+29°22'N   47°59'E Kuwait City, Kuwait
+67°18'N   14°33'E Bodø, Norway
+10°30'N   61°23'W Chaguanas, Trinidad and Tobago
+42°21'N   71°04'W Boston, United States
+53°54'N   27°34'E Minsk, Belarus
+41°48'N   129°47'E Chongjin, North Korea
+7°45'N   8°49'W Nzérékoré, Guinea
+33°27'N   112°04'W Phoenix, United States
+9°56'N   84°05'W San José, Costa Rica
+32°32'S   115°43'E Mandurah, Australia
+43°32'S   172°37'E Christchurch, New Zealand
+69°27'N   133°02'W Tuktoyaktuk, Canada
+32°03'N   118°46'E Nanjing,China
+6°55'N   79°53'E Sri Jayawardenapura-Kotte, Sri Lanka
+13°06'N   59°37'W Bridgetown, Barbados
+56°20'N   44°00'E Nizhny Novgorod, Russia
+38°11'N   15°33'E Messina, Italy
+43°50'N   66°07'W Yarmouth, Canada

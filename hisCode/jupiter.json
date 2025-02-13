@@ -1,0 +1,8 @@
+{ "name" : "Jupiter",
+"radius" : 69911,
+"mass" : 317.8,
+"moons" : [ { "name" : "Io", "radius" : 1830, "mass" : 8931900 },
+            { "name" : "Europa", "radius" : 1560.8, "mass" : 4800000 },
+            { "name" : "Ganymede", "radius" : 2631.2, "mass" : 14819000 },
+            { "name" : "Callisto", "radius" : 2410.3, "mass" : 10759000 } ]
+}

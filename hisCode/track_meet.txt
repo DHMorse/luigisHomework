@@ -1,0 +1,10 @@
+Wynston, Ward, 14, 400 Meters, 1600 Meter Relay, 200 Meter Hurdles
+Wattson, Wallace, 17, Pole Vault, Long Jump
+Elison, Edword, 16, 100 Meters, 200 Meters, 400 Meter Relay
+Graybeard, Garrett, 16, Javelin, Shot Put
+Janfrey, Jack, 15, Long Jump, Triple Jump
+Mastersonn, Marcus, 18, High Jump, Discus, 800 Meters
+Norquist, Nellie, 17, 400 Meters, 200 Meters
+Ellensen, Elenor, 15, Discus, Long Jump, High Jump
+Ranger, Rodny, 16, 3200 Meters, 1600 Meter Relay
+McClue, Marsha, 18, 800 Meters, Long Jump
