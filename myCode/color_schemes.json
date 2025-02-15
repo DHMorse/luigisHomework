@@ -1,0 +1,44 @@
+{
+  "schemes" :
+  [
+    {
+      "name" : "Spring",
+      "colors" :
+        {
+          "light" :  "#AFCA90",
+          "medium" : "#66883E",
+          "dark" :   "#333C1A"
+        }
+    },
+    {
+      "name" : "Summer",
+      "colors" :
+        {
+          "light" :  "#FFE56F",
+          "medium" : "#F7990F",
+          "dark" :   "#D22003"
+        }
+    },
+    {
+      "name" : "Fall",
+      "colors" :
+        {
+          "light" :  "#EEDB74",
+          "medium" : "#C57200",
+          "dark" :   "#6C3108"
+        }
+    },
+    {
+      "name" : "Winter",
+      "colors" :
+        {
+          "light" :  "#AFB6CB",
+          "medium" : "#7A84A1",
+          "dark" :   "#40526D"
+        }
+    }
+  ]
+}
+
+
+
